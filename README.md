@@ -3,7 +3,7 @@
 
 
 Vous pouvez accéder au site dictement sur le lien suivant (herbergé sur Vercel) : 
-https://morning-news-frontend-black.vercel.app/
+[https://morning-news-frontend-black.vercel.app/](https://mymoviz-fontend-ashy.vercel.app/)
 
 
 ### Si vous voulez tester l'application en local veuillez suivre les indications suivantes : 
